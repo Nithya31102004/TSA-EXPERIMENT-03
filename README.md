@@ -1,7 +1,7 @@
 # Experiment 03 – Log Transformation of International Airline Passenger Data
 
-### Name: HANIEL REENA D R
-### Register No: 2305001008
+### Name: NITHYA T
+### Register No: 2305001023
 
 ## Aim
 To apply a logarithmic transformation to the International Airline Passenger time series and
